@@ -8,3 +8,9 @@ D:\ToanBK\Documents\Visual Studio 2010\Projects\Google Code Projects\bkhn-it4883
 D:\ToanBK\Documents\Visual Studio 2010\Projects\Google Code Projects\bkhn-it4883-fish\DistributedFishSystem\FishServer\obj\x86\Debug\GenerateResource.write.1.tlog
 D:\ToanBK\Documents\Visual Studio 2010\Projects\Google Code Projects\bkhn-it4883-fish\DistributedFishSystem\FishServer\obj\x86\Debug\FishServer.exe
 D:\ToanBK\Documents\Visual Studio 2010\Projects\Google Code Projects\bkhn-it4883-fish\DistributedFishSystem\FishServer\obj\x86\Debug\FishServer.pdb
+D:\ToanBK\Documents\Visual Studio 2010\Projects\Google Code Projects\bkhn-it4883-fish\DistributedFishSystem\FishServer\obj\x86\Debug\FishServer.ServerForm.resources
+D:\ToanBK\Documents\Visual Studio 2010\Projects\Google Code Projects\bkhn-it4883-fish\DistributedFishSystem\FishServer\obj\x86\Debug\FishServer.TransparentControl.resources
+D:\ToanBK\Documents\Visual Studio 2010\Projects\Google Code Projects\bkhn-it4883-fish\DistributedFishSystem\FishServer\obj\x86\Debug\FishServer.Controls.AquariumControl.resources
+D:\ToanBK\Documents\Visual Studio 2010\Projects\Google Code Projects\bkhn-it4883-fish\DistributedFishSystem\FishServer\obj\x86\Debug\FishServer.Controls.AquariumControlFail.resources
+D:\ToanBK\Documents\Visual Studio 2010\Projects\Google Code Projects\bkhn-it4883-fish\DistributedFishSystem\FishServer\bin\Debug\FishComponent.dll
+D:\ToanBK\Documents\Visual Studio 2010\Projects\Google Code Projects\bkhn-it4883-fish\DistributedFishSystem\FishServer\bin\Debug\FishComponent.pdb

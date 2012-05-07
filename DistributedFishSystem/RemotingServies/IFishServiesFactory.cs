@@ -3,10 +3,10 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace Fish.Remoting
+namespace Fishes.Remoting
 {
-    public interface IFishServiesFactory
+    public interface IFishServicesFactory
     {
-        IFishServies CreateServies();
+        IFishServices CreateServies();
     }
 }
