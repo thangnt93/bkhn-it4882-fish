@@ -1,0 +1,11 @@
+D:\ToanBK\Documents\Visual Studio 2010\Projects\Google Code Projects\bkhn-it4883-fish\DistributedFishSystem\FishTest\bin\Debug\FishTest.dll
+D:\ToanBK\Documents\Visual Studio 2010\Projects\Google Code Projects\bkhn-it4883-fish\DistributedFishSystem\FishTest\bin\Debug\FishTest.pdb
+D:\ToanBK\Documents\Visual Studio 2010\Projects\Google Code Projects\bkhn-it4883-fish\DistributedFishSystem\FishTest\bin\Debug\FishComponent.dll
+D:\ToanBK\Documents\Visual Studio 2010\Projects\Google Code Projects\bkhn-it4883-fish\DistributedFishSystem\FishTest\bin\Debug\FishServer.exe
+D:\ToanBK\Documents\Visual Studio 2010\Projects\Google Code Projects\bkhn-it4883-fish\DistributedFishSystem\FishTest\bin\Debug\RemotingServies.dll
+D:\ToanBK\Documents\Visual Studio 2010\Projects\Google Code Projects\bkhn-it4883-fish\DistributedFishSystem\FishTest\bin\Debug\FishComponent.pdb
+D:\ToanBK\Documents\Visual Studio 2010\Projects\Google Code Projects\bkhn-it4883-fish\DistributedFishSystem\FishTest\bin\Debug\RemotingServies.pdb
+D:\ToanBK\Documents\Visual Studio 2010\Projects\Google Code Projects\bkhn-it4883-fish\DistributedFishSystem\FishTest\bin\Debug\FishServer.pdb
+D:\ToanBK\Documents\Visual Studio 2010\Projects\Google Code Projects\bkhn-it4883-fish\DistributedFishSystem\FishTest\obj\Debug\ResolveAssemblyReference.cache
+D:\ToanBK\Documents\Visual Studio 2010\Projects\Google Code Projects\bkhn-it4883-fish\DistributedFishSystem\FishTest\obj\Debug\FishTest.dll
+D:\ToanBK\Documents\Visual Studio 2010\Projects\Google Code Projects\bkhn-it4883-fish\DistributedFishSystem\FishTest\obj\Debug\FishTest.pdb

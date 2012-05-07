@@ -47,6 +47,28 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Aquarium\ClientWindowLocationEventArgs.cs" />
+    <Compile Include="Aquarium\ClientWindowLocationEventHandler.cs" />
+    <Compile Include="Aquarium\ClientWindowSizeEventArgs.cs" />
+    <Compile Include="Aquarium\ClientWindowSizeEventHandler.cs" />
+    <Compile Include="Services\ClientIpServerSink.cs" />
+    <Compile Include="Services\ClientIPServerSinkProvider.cs" />
+    <Compile Include="Backup\ClientWindowfail1.cs" />
+    <Compile Include="Aquarium\ClientWindow.cs" />
+    <Compile Include="Backup\AquariumControlFail.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Backup\AquariumControlFail.Designer.cs">
+      <DependentUpon>AquariumControlFail.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Aquarium\AquariumControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Aquarium\AquariumControl.Designer.cs">
+      <DependentUpon>AquariumControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Services\FishServices.cs" />
+    <Compile Include="Services\FishServicesFactory.cs" />
     <Compile Include="ServerForm.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -55,6 +77,18 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Backup\TransparentControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Backup\TransparentControl.Designer.cs">
+      <DependentUpon>TransparentControl.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Backup\AquariumControlFail.resx">
+      <DependentUpon>AquariumControlFail.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Aquarium\AquariumControl.resx">
+      <DependentUpon>AquariumControl.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
@@ -63,7 +97,14 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
+    <EmbeddedResource Include="ServerForm.resx">
+      <DependentUpon>ServerForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Backup\TransparentControl.resx">
+      <DependentUpon>TransparentControl.cs</DependentUpon>
+    </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
@@ -75,11 +116,22 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\FishComponent\FishComponent.csproj">
+      <Project>{79A1520C-76FD-4771-8D03-BEEEDBF767E5}</Project>
+      <Name>FishComponent</Name>
+    </ProjectReference>
     <ProjectReference Include="..\RemotingServies\RemotingServies.csproj">
       <Project>{6D205D89-B265-4EF5-ABA5-366EBACF7146}</Project>
       <Name>RemotingServies</Name>
     </ProjectReference>
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\aquarium1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fish1.png" />
+  </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.

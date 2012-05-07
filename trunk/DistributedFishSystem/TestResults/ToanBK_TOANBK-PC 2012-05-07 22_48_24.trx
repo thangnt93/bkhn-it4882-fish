@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="1af17b85-fa89-4f0b-aaf0-d405d5f9052c" name="ToanBK@TOANBK-PC 2012-05-07 22:48:24" runUser="ToanBK-PC\ToanBK" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="b9cf5429-1149-48a9-814d-7eb23edf8939">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment userDeploymentRoot="D:\ToanBK\Documents\Visual Studio 2010\Projects\Google Code Projects\bkhn-it4883-fish\DistributedFishSystem\TestResults" useDefaultDeploymentRoot="false" enabled="false" runDeploymentRoot="ToanBK_TOANBK-PC 2012-05-07 22_48_24">
+      <DeploymentItem filename="D:\ToanBK\Documents\Visual Studio 2010\Projects\Google Code Projects\bkhn-it4883-fish\DistributedFishSystem\FishServer\bin\Debug\FishServer.exe" />
+      <DeploymentItem filename="D:\ToanBK\Documents\Visual Studio 2010\Projects\Google Code Projects\bkhn-it4883-fish\DistributedFishSystem\FishComponent\bin\Debug\FishComponent.dll" />
+      <DeploymentItem filename="D:\ToanBK\Documents\Visual Studio 2010\Projects\Google Code Projects\bkhn-it4883-fish\DistributedFishSystem\RemotingServies\bin\Debug\RemotingServies.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2012-05-07T22:48:24.0747387+07:00" queuing="2012-05-07T22:48:24.1297418+07:00" start="2012-05-07T22:48:24.1647438+07:00" finish="2012-05-07T22:48:24.9207871+07:00" />
+  <ResultSummary outcome="Failed">
+    <Counters total="1" executed="1" error="0" failed="1" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="NewClientIdTest" storage="d:\toanbk\documents\visual studio 2010\projects\google code projects\bkhn-it4883-fish\distributedfishsystem\fishtest\bin\debug\fishtest.dll" id="4962c0c4-b2f5-c105-7bbe-5a68efe901fd">
+      <Execution id="e165f4e4-bf3a-4e54-aa93-7b6ce3436ac4" />
+      <TestMethod codeBase="D:/ToanBK/Documents/Visual Studio 2010/Projects/Google Code Projects/bkhn-it4883-fish/DistributedFishSystem/FishTest/bin/Debug/FishTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="FishTest.AquariumControlTest, FishTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="NewClientIdTest" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="4962c0c4-b2f5-c105-7bbe-5a68efe901fd" executionId="e165f4e4-bf3a-4e54-aa93-7b6ce3436ac4" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="e165f4e4-bf3a-4e54-aa93-7b6ce3436ac4" testId="4962c0c4-b2f5-c105-7bbe-5a68efe901fd" testName="NewClientIdTest" computerName="TOANBK-PC" duration="00:00:00.1000703" startTime="2012-05-07T22:48:24.2357479+07:00" endTime="2012-05-07T22:48:24.7697784+07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="e165f4e4-bf3a-4e54-aa93-7b6ce3436ac4">
+      <Output>
+        <ErrorInfo>
+          <Message>Assert.AreEqual failed. Expected:&lt;1&gt;. Actual:&lt;3&gt;. </Message>
+          <StackTrace>   at FishTest.AquariumControlTest.NewClientIdTest() in D:\ToanBK\Documents\Visual Studio 2010\Projects\Google Code Projects\bkhn-it4883-fish\DistributedFishSystem\FishTest\AquariumControlTest.cs:line 81
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>

@@ -1,0 +1,8 @@
+D:\ToanBK\Documents\Visual Studio 2010\Projects\Google Code Projects\bkhn-it4883-fish\DistributedFishSystem\DoubleBufferedGraphics\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\ToanBK\Documents\Visual Studio 2010\Projects\Google Code Projects\bkhn-it4883-fish\DistributedFishSystem\DoubleBufferedGraphics\obj\x86\Debug\DoubleBufferedGraphics.Properties.Resources.resources
+D:\ToanBK\Documents\Visual Studio 2010\Projects\Google Code Projects\bkhn-it4883-fish\DistributedFishSystem\DoubleBufferedGraphics\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\ToanBK\Documents\Visual Studio 2010\Projects\Google Code Projects\bkhn-it4883-fish\DistributedFishSystem\DoubleBufferedGraphics\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\ToanBK\Documents\Visual Studio 2010\Projects\Google Code Projects\bkhn-it4883-fish\DistributedFishSystem\DoubleBufferedGraphics\bin\Debug\DoubleBufferedGraphics.exe
+D:\ToanBK\Documents\Visual Studio 2010\Projects\Google Code Projects\bkhn-it4883-fish\DistributedFishSystem\DoubleBufferedGraphics\bin\Debug\DoubleBufferedGraphics.pdb
+D:\ToanBK\Documents\Visual Studio 2010\Projects\Google Code Projects\bkhn-it4883-fish\DistributedFishSystem\DoubleBufferedGraphics\obj\x86\Debug\DoubleBufferedGraphics.exe
+D:\ToanBK\Documents\Visual Studio 2010\Projects\Google Code Projects\bkhn-it4883-fish\DistributedFishSystem\DoubleBufferedGraphics\obj\x86\Debug\DoubleBufferedGraphics.pdb

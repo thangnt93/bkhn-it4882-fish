@@ -3,3 +3,5 @@ D:\ToanBK\Documents\Visual Studio 2010\Projects\Google Code Projects\bkhn-it4883
 D:\ToanBK\Documents\Visual Studio 2010\Projects\Google Code Projects\bkhn-it4883-fish\DistributedFishSystem\RemotingServies\obj\Debug\ResolveAssemblyReference.cache
 D:\ToanBK\Documents\Visual Studio 2010\Projects\Google Code Projects\bkhn-it4883-fish\DistributedFishSystem\RemotingServies\obj\Debug\RemotingServies.dll
 D:\ToanBK\Documents\Visual Studio 2010\Projects\Google Code Projects\bkhn-it4883-fish\DistributedFishSystem\RemotingServies\obj\Debug\RemotingServies.pdb
+D:\ToanBK\Documents\Visual Studio 2010\Projects\Google Code Projects\bkhn-it4883-fish\DistributedFishSystem\RemotingServies\bin\Debug\FishComponent.dll
+D:\ToanBK\Documents\Visual Studio 2010\Projects\Google Code Projects\bkhn-it4883-fish\DistributedFishSystem\RemotingServies\bin\Debug\FishComponent.pdb
