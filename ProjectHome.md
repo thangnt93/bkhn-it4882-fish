@@ -1,0 +1,1 @@
+Cá bơi qua nhiều máy tính được kết nối trong mạng. Chương trình sử dụng công nghệ .NET remoting
